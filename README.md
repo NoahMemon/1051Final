@@ -1,18 +1,6 @@
 # 1051Final
 
-I want to work towards creating a project known as the Snake Game but add some additional parts that are exclusive to my version. 
+https://youtu.be/wBi2bXpemFY
 
-I plan to work alone
-
-It will be a game, playable in idle or python in general, in which the player "the snake" gets food to score points. 
-
-My project will be coded enough to allow for customization of perhaps the snake, score multiplier, color, board size. I plan to code the project in IDLE because it is what I am most comfortable with. 
-
-A good outcome is that the snake is able to eat food to get points
-
-A better outcome is that the user can fully control the snake and the game works as intended. 
-
-Best outcome is that the snake is able to be customized as well as many other aspects of the game. 
-
-I will need to learn how to incorporate movement into inputs. And figure out how to allow for the user to customize. 
+Challenges I faced while working on this project was making the project in my own way. Any time that I was faced with a challenge in terms of coding it was simple to find a guide to troubleshoot what was wrong with my code other than finding ways to customize aspects of the game. Additionally, I had never made a game or used pygame before so I would still say that the biggest challenge I faced was installing pygame as I had to create a path and command prompt to install compatiable versions of pygame and python. This project was fun to make I felt very accomplished with myself as my code successfully and I was able to have it run and be customizable. 
 
